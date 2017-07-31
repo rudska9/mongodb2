@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dbinsert.js" />
+        <item url="file://$PROJECT_DIR$/dbinsertMany.js" />
+        <item url="file://$PROJECT_DIR$/dbfind.js" />
+        <item url="file://$PROJECT_DIR$/dbcon.js" />
+        <item url="file://$PROJECT_DIR$/dbquery.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/server_mongo/server.js" />
+      <root url="file://$PROJECT_DIR$/server_mongo/server.js" />
+      <root url="file://$PROJECT_DIR$/index.js" />
+      <root url="file://$PROJECT_DIR$/index.js" />
+      <root url="file://$PROJECT_DIR$/dbinsert.js" />
+      <root url="file://$PROJECT_DIR$/dbinsertMany.js" />
+      <root url="file://$PROJECT_DIR$/dbfind.js" />
+      <root url="file://$PROJECT_DIR$/dbcon.js" />
+      <root url="file://$PROJECT_DIR$/dbquery.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
